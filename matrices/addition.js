@@ -2,8 +2,8 @@ var readlinesync = require('readline-sync');
 
 function matrixAddition() {
   var matrix1 = [
-    [1, 2, 3],
-    [1, 2, 3]
+    [11, 12, 13],
+    [11, 12, 13]
   ];
   var matrix2 = [
     [1, 2, 3],
