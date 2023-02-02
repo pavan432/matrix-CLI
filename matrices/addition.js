@@ -26,6 +26,6 @@ function matrixAddition() {
   //   console.log(matrix3);
 }
 
-matrixAddition();
+// matrixAddition();
 
-//module.exports = matrixAddition;
+module.exports = matrixAddition;
