@@ -6,7 +6,7 @@ function main() {
   console.log(`--------------------`);
   console.log('     Options');
   console.log(`--------------------`);
-  var options = ['Exit Program', 'Matrix Sutraction', 'Matrix Subtraction'];
+  var options = ['Exit Program', 'Matrix Addition', 'Matrix Subtraction'];
   options.forEach((ele, index) => {
     console.log(`${index} ${ele}`);
   });
