@@ -25,7 +25,7 @@ function main() {
         matrixSubtraction();
         break;
     }
-    var again = readlineSync.question('Want to perform again? y/N: ');
+    var again = readlineSync.question('Want to perform again? y/n: ');
     if (again === 'y' || again === 'Y' || again === 'yes' || again === 'YES') {
       console.clear();
       main();
